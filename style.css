@@ -68,3 +68,19 @@ ul {
 .skills li {
   margin-bottom: 0.3rem;
 }
+
+.download-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #007acc;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+.download-btn:hover {
+  background-color: #005fa3;
+}
