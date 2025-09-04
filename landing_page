@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brady McKay - Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="resume">
+
+    <!-- Header -->
+    <header>
+      <h1>Brady McKay</h1>
+      <h2>Aspiring Data Analyst</h2>
+      <p>Email: <a href="mailto:brady@example.com">brady@example.com</a> | 
+         LinkedIn: <a href="https://linkedin.com/in/bradymckay" target="_blank">linkedin.com/in/bradymckay</a> | 
+         GitHub: <a href="https://github.com/bradymckay" target="_blank">github.com/bradymckay</a></p>
+    </header>
+
+    <!-- Education -->
+    <section>
+      <h3>Education</h3>
+      <div class="entry">
+        <h4>Bachelor of General Studies, Business Emphasis</h4>
+        <p>Brigham Young University | 2024</p>
+        <ul>
+          <li>Relevant coursework: Data Analytics, Business Management</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section>
+      <h3>Experience</h3>
+      <div class="entry">
+        <h4>Cash Management Specialist</h4>
+        <p>Company Name | 2023 – Present</p>
+        <ul>
+          <li>Prepared daily bank deposits and managed cash balances.</li>
+          <li>Improved reporting efficiency by implementing advanced Excel processes.</li>
+          <li>Collaborated with accounting team to ensure accuracy of financial records.</li>
+        </ul>
+      </div>
+      <div class="entry">
+        <h4>Data Projects (Freelance / Personal)</h4>
+        <p>2022 – Present</p>
+        <ul>
+          <li>Developed Google Sheets automation with Apps Script to streamline reporting.</li>
+          <li>Built SQL queries and dashboards for business insights.</li>
+          <li>Created fantasy racing league management tools using Excel and Python.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Skills -->
+    <section>
+      <h3>Skills</h3>
+      <ul class="skills">
+        <li><strong>Programming:</strong> Python, SQL, R</li>
+        <li><strong>Tools:</strong> Excel, Google Sheets, Power BI, Git</li>
+        <li><strong>Soft Skills:</strong> Communication, Teamwork, Problem Solving</li>
+      </ul>
+    </section>
+
+    <!-- Projects -->
+    <section>
+      <h3>Selected Projects</h3>
+      <div class="entry">
+        <h4>Fantasy Racing Website</h4>
+        <p>Web app for managing NASCAR/IndyCar fantasy leagues. Built with HTML, CSS, Python, and SQL.</p>
+      </div>
+      <div class="entry">
+        <h4>Employee Performance Tracker</h4>
+        <p>Google Sheets automation using Apps Script to streamline HR reviews and reporting.</p>
+      </div>
+      <div class="entry">
+        <h4>NASCAR Data Analysis</h4>
+        <p>Analyzed historical NASCAR data in R to identify trends and performance factors.</p>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>
